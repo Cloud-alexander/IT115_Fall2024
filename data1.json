@@ -1,0 +1,15 @@
+{
+    "name": "Sergio Santana",
+    "age": 100,
+    "city": "Seattle",
+    "interests": [
+        "Travel",
+        "food",
+        "cars",
+        "sports",
+        "music",
+        "fishin",
+        "Silly"
+    ],
+    "is_student": false
+}
